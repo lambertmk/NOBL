@@ -1,0 +1,122 @@
+﻿Sector,Industry Group,Industry,Sub-industry,Ownership,Employees,Annual Revenue,Which letter most closely represents where you are on this cloud journey
+Industrials,Commercial & professional services,Commercial Services & Supplies,Security & alarm services,Private,3373,1496861000,A (The need for internal change is denied
+Government,Australian Government,Australian State,NSW Agency,Government,1500,300000000,C (The scope of change is accepted
+Energy,Energy,"Oil, Gas & Consumable Fuels",Coal & consumable fuels,Public,3134,4561000000,C (The scope of change is accepted
+Financials,Real Estate,Real Estate,Real Estate Management & Development,Private,2506,657614000,C (The scope of change is accepted
+Financials,Banks,Commercial Banks,Diversified Banks,Public,39060,35523000000,C (The scope of change is accepted
+Telecommunication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,Private,6400,2830000000,C (The scope of change is accepted
+Utilities,Utilities,Electric Utilities,Electric Utilities,Private,1300,847145000,D
+Industrials,Commercial & professional services,Professional services,Human resource & employment services,Private,22172,2464090000,E (Our ability to change is doubted)
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,,0,868613000,E (Our ability to change is doubted)
+Consumer Staples,Food & staples retailing,Food & staples retailing,Food distributors,Public,6378,12756300000,F
+Consumer discretionary,Retailing,Specialty Retail,Specialty Stores,Public,1864,948179000,F
+Financials,Real Estate,Real Estate,Real Estate Management & Development,Private,2506,657614000,F
+Consumer discretionary,Consumer services,"Hotels, restaurants & leisure",Casinos & gaming,Public,5000,5482200000,F
+Financials,Banks,Commercial Banks,Regional Banks,Public,4540,2921200000,F
+Consumer Staples,Food & staples retailing,Food & staples retailing,Food distributors,Public,6378,12756300000,F
+Telecommunication Services,Telecommunication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,Proprietary,6990,9040000000,F
+Government,Australian Government,Australian State,NSW Department,Government,682,416524000,F
+Materials,Materials,Construction materials,Construction materials,Public,11916,5863000000,G (First win)
+Information Technology,Technology Hardware & Equipment,Computers & Peripherals,Computer Hardware,Public,4938,2456419680,G (First win)
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Public,308,1204012000,G (First win)
+Industrials,Commercial & professional services,Commercial Services & Supplies,Security & alarm services,Private,3373,1496861000,G (First win)
+Consumer discretionary,Retailing,Multiline Retail,General Merchandise Stores,Public,5200,2234118000,G (First win)
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Private,247,3337012000,G (First win)
+Industrials,Capital Goods,Aerospace & defence,Aerospace & defence,Proprietary,1275,732556000,G (First win)
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Public,308,1204012000,G (First win)
+Health Care,Health Care Equipment & Services,Health Care Equipment & Supplies,Health care equipment,Public,3086,1955559000,G (First win)
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Private,5000,2278000000,G (First win)
+Consumer discretionary,Consumer services,Diversified consumer services,Education Services,Government,3766,1178640000,G (First win)
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Private,247,3337012000,G (First win)
+Financials,Insurance,Insurance,Life & Health Insurance,Private,2619,8279000000,G (First win)
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Government,119784,24669679000,H (First loss)
+Utilities,Utilities,Electric Utilities,Electric Utilities,Private,1040,896410000,H (First loss)
+Financials,Insurance,Insurance,Multi-Line Insurance,Public,1673,4403776000,H (First loss)
+Consumer discretionary,Consumer services,Diversified consumer services,Education Services,Government,4174,1169558000,I
+Consumer discretionary,Consumer durables & apparel,Household durables,Home furnishings,,0,50000000,I
+Telecommunication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,Private,6400,2830000000,I
+Health Care,Health Care Equipment & Services,Health Care Equipment & Supplies,Health care equipment,Public,4000,1456400000,I
+Health Care,Pharmaceuticals & Biotechnology & Life Sciences,Pharmaceuticals,Pharmaceuticals,Proprietary,959,1070094000,I
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Private,3507,295820000,I
+Industrials,Commercial & professional services,Commercial Services & Supplies,Office services & supplies,Proprietary,504,234657000,I
+Telecommunication Services,Telecommunication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,Private,1100,199684154,I
+Utilities,Utilities,Water Utilities,Water Utilities,Government,771,455141000,I
+Financials,Insurance,Insurance,Property & Casualty Insurance,Public,8444,11942000000,I
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Government,119784,24669679000,I
+Industrials,Commercial & professional services,Commercial Services & Supplies,Diversified support services,Public,23000,1278940000,I
+Financials,Real Estate,Real Estate,Real Estate Management & Development,Trust,532,381200000,I
+Financials,Real Estate,Real Estate,Real Estate Management & Development,Private,1241,757238000,I
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Government,119784,24669679000,I
+Industrials,Commercial & professional services,Commercial Services & Supplies,Diversified support services,Private,2391,913424000,I
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Private,1000,500000000,I
+Financials,Diversified Financials,Diversified financial services,Consumer Finance,Private,570,283914000,I
+Industrials,Commercial & professional services,Commercial Services & Supplies,Diversified commercial & professional services,Private,10000,2300000000,J (Comfort with the process)
+Health Care,Health Care Equipment & Services,Health Care Equipment & Supplies,Health care equipment,Private,76,81149000,J (Comfort with the process)
+Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage,,586,239043000,J (Comfort with the process)
+Financials,Banks,Commercial Banks,Diversified Banks,,0,0,J (Comfort with the process)
+Utilities,Utilities,Electric Utilities,Electric Utilities,Private,1040,896410000,J (Comfort with the process)
+Consumer discretionary,Consumer services,Diversified consumer services,Specialised consumer services,Private,1671,749600000,J (Comfort with the process)
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Government,0,1887473000,J (Comfort with the process)
+Financials,Diversified Financials,Diversified financial services,Specialised Finance,Public,800,842427000,J (Comfort with the process)
+Health Care,Pharmaceuticals & Biotechnology & Life Sciences,Life Sciences Tools & Services,Life Sciences Tools & Services,Publicly Unlisted,365,81630000,J (Comfort with the process)
+Financials,Real Estate,Real Estate,Real Estate Management & Development,Trust,532,381200000,J (Comfort with the process)
+Information Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,Private,381,189770000,J (Comfort with the process)
+Financials,Real Estate,Real Estate Management & Development,Diversified Real Estate Activities,Public,12000,16555000000,J (Comfort with the process)
+Industrials,Commercial & professional services,Commercial Services & Supplies,Diversified commercial & professional services,Public,15901,802841000,J (Comfort with the process)
+Health Care,Pharmaceuticals & Biotechnology & Life Sciences,Pharmaceuticals,Pharmaceuticals,Private,593,487367000,J (Comfort with the process)
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Public,4415,2270062000,J (Comfort with the process)
+Industrials,Capital Goods,Construction & engineering,Construction & engineering,Proprietary,5245,4599693000,J (Comfort with the process)
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Public,4032,315974000,J (Comfort with the process)
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Public,308,1204012000,J (Comfort with the process)
+Consumer discretionary,Consumer services,Diversified consumer services,Education Services,Government,4174,1169558000,J (Comfort with the process)
+Financials,Diversified Financials,Diversified financial services,Specialised Finance,Public,689,1094500000,J (Comfort with the process)
+Consumer Staples,Food & staples retailing,Food & staples retailing,Food retail,Public,196000,59984000000,J (Comfort with the process)
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Public,228,1144384000,J (Comfort with the process)
+Health Care,Pharmaceuticals & Biotechnology & Life Sciences,Pharmaceuticals,Pharmaceuticals,Private,426,481216000,J (Comfort with the process)
+Financials,Real Estate,Real Estate Investment Trusts (REITS),Diversified REITs,Public,1540,2778000000,J (Comfort with the process)
+Government,Australian Government,Australian Federal,Federal Agency,Government,5359,1361674000,J (Comfort with the process)
+Consumer Staples,Food & staples retailing,Food & staples retailing,Food distributors,Private,1287,223098000,J (Comfort with the process)
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Public,228,1144384000,J (Comfort with the process)
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Private,400,235454000,J (Comfort with the process)
+Energy,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & production,Public,1607,3289391965,J (Comfort with the process)
+Consumer discretionary,Media,Media,Advertising,Public,146,838243000,J (Comfort with the process)
+Consumer discretionary,Media,Media,Broadcasting,Private,10600,5610600000,J (Comfort with the process)
+Financials,Diversified Financials,Capital Markets,Investment Banking & Brokerage,Public,15715,16957000000,J (Comfort with the process)
+Government,Australian Government,Australian State,NSW Department,Government,3966,18603000000,J (Comfort with the process)
+Consumer discretionary,Consumer services,Diversified consumer services,Education Services,Private,515,145034000,J (Comfort with the process)
+Utilities,Utilities,Electric Utilities,Electric Utilities,Government,3025,1579200000,J (Comfort with the process)
+Industrials,Commercial & professional services,Professional services,Research & consulting services,Proprietary,6500,1780000000,J (Comfort with the process)
+Telecommunication Services,Telecommunication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,Proprietary,6990,9040000000,J (Comfort with the process)
+Industrials,Capital Goods,Construction & engineering,Construction & engineering,Private,4953,1000000000,K
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Government,540,654588000,K
+Financials,Diversified Financials,Diversified financial services,Consumer Finance,Private,897,403480000,K
+Consumer discretionary,Media,Media,Broadcasting,Private,10600,5610600000,K
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Government,119784,24669679000,K
+Financials,Diversified Financials,Diversified financial services,Other Diversified Financial Services,Public,6500,5813000000,K
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Public,308,1204012000,K
+Financials,Insurance,Insurance,Life & Health Insurance,Public,1184,2461200000,K
+Financials,Insurance,Insurance,Property & Casualty Insurance,Public,8444,11942000000,L (Change is successful and easier in the future)
+Consumer discretionary,Media,Media,Advertising,,700,343921000,L (Change is successful and easier in the future)
+Financials,Banks,Commercial Banks,Diversified Banks,Public,48238,40805000000,L (Change is successful and easier in the future)
+Industrials,Commercial & professional services,Professional services,Research & consulting services,Private,120,450000000,L (Change is successful and easier in the future)
+Government,Australian Government,Australian State,NSW Department,Government,3000,484067000,L (Change is successful and easier in the future)
+Consumer discretionary,Consumer services,Diversified consumer services,Education Services,Government,2676,900810000,L (Change is successful and easier in the future)
+Financials,Insurance,Insurance,Property & Casualty Insurance,Public,13300,1 556 000 000,L (Change is successful and easier in the future)
+Consumer discretionary,Consumer services,Diversified consumer services,Specialised consumer services,Partnership,1491,515800000,L (Change is successful and easier in the future)
+Financials,Diversified Financials,Diversified financial services,Other Diversified Financial Services,Public,6500,5813000000,L (Change is successful and easier in the future)
+Consumer Staples,"Food, Beverage & Tobacco",Tobacco,Tobacco,Proprietary,419,1944504000,L (Change is successful and easier in the future)
+Telecommunication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,Proprietary,2024,3769020000,L (Change is successful and easier in the future)
+Consumer Staples,"Food, Beverage & Tobacco",Food Products,Packaged foods & meats,Private,1000,500000000,L (Change is successful and easier in the future)
+Telecommunication Services,Telecommunication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,Public,669,508834000,L (Change is successful and easier in the future)
+Financials,Banks,Commercial Banks,Diversified Banks,Public,39060,35523000000,L (Change is successful and easier in the future)
+Utilities,Utilities,Multi-Utilities,Multi-Utilities,Public,5360,13814000000,L (Change is successful and easier in the future)
+Government,Australian Government,Australian Local,NSW Local Council,Government,1900,746261000,L (Change is successful and easier in the future)
+Consumer Staples,Food & staples retailing,Food & staples retailing,Food retail,Public,196000,59984000000,L (Change is successful and easier in the future)
+Financials,Diversified Financials,Consumer Finance,Consumer Finance,Trust,1500,556721000,L (Change is successful and easier in the future)
+Consumer discretionary,Consumer services,"Hotels, restaurants & leisure",Casinos & gaming,Public,9273,2158100000,M
+Consumer discretionary,Media,Media,Movies & entertainment,Partnership,662,555915000,M
+Industrials,Commercial & professional services,Commercial Services & Supplies,Diversified commercial & professional services,Public,15901,802841000,M
+Financials,Diversified Financials,Diversified financial services,Specialised Finance,Public,958,429589000,M
+Health Care,Health Care Equipment & Services,Health Care Providers & Servers,Health Care Services,Other,6319,841539000,M
+Consumer discretionary,Media,Media,Cable & Satellite,Partnership,2470,1934402000,M
+Information Technology,Software & Services,Internet Software & Services,Internet Software & Services,Public,0,100000000,M
